@@ -1,0 +1,48 @@
+{
+    "emanuel": {
+        "nome": "emauel anthony ferreira da silva",
+        "senha": "90fe3666168bfbc3641df91b221296237f76af65c17bc68a1e58e01a7379a261",
+        "salt": "cc0f963af6bad4b8ad27806ff14db511",
+        "email": "anthony.0145.23@gmail.com",
+        "data_cadastro": "26/04/2025 23:16:22",
+        "cursos_inscritos": [
+            "3"
+        ],
+        "resultados_exercicios": {},
+        "permissoes": [
+            "visualizar_cursos",
+            "inscrever_cursos",
+            "visualizar_estatisticas_basicas"
+        ]
+    },
+    "manu": {
+        "nome": "manu",
+        "senha": "70d1afcdfec1461b8ef4e9c446254dff3a2af1227a2a238c73cef305ec5b1c2f",
+        "salt": "93835de21345bf814144d1fb96d9c432",
+        "email": "anthony@gmail.com",
+        "data_cadastro": "29/04/2025 23:15:24",
+        "cursos_inscritos": [
+            "1",
+            "2"
+        ],
+        "resultados_exercicios": {
+            "1": {
+                "data_realizacao": "29/04/2025 23:20:22",
+                "respostas": [
+                    0,
+                    3,
+                    0,
+                    0,
+                    0
+                ],
+                "acertos": 1,
+                "nota": 2
+            }
+        },
+        "permissoes": [
+            "visualizar_cursos",
+            "inscrever_cursos",
+            "visualizar_estatisticas_basicas"
+        ]
+    }
+}

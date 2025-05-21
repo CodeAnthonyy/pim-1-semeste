@@ -1,0 +1,23 @@
+{
+    "1": {
+        "titulo": "Introdução ao Pensamento Computacional",
+        "descricao": "Curso básico sobre lógica de programação",
+        "modulos": 5,
+        "nivel": "iniciante",
+        "carga_horaria": 20
+    },
+    "2": {
+        "titulo": "Segurança Digital para Iniciantes",
+        "descricao": "Aprenda boas práticas de segurança na internet",
+        "modulos": 4,
+        "nivel": "iniciante",
+        "carga_horaria": 15
+    },
+    "3": {
+        "titulo": "Introdução ao Python",
+        "descricao": "Aprenda os fundamentos da linguagem Python",
+        "modulos": 5,
+        "nivel": "iniciante",
+        "carga_horaria": 25
+    }
+}

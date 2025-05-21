@@ -1,0 +1,67 @@
+[
+    {
+        "usuario": "emanuel",
+        "acao": "cadastro",
+        "data_hora": "26/04/2025 23:16:22"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "login",
+        "data_hora": "26/04/2025 23:16:49"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "inscricao_curso_3",
+        "data_hora": "26/04/2025 23:17:28"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "visualizar_topico_3_topico2",
+        "data_hora": "26/04/2025 23:18:29"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "visualizar_topico_3_topico3",
+        "data_hora": "26/04/2025 23:18:34"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "visualizar_conteudo_3",
+        "data_hora": "26/04/2025 23:18:37"
+    },
+    {
+        "usuario": "manu",
+        "acao": "cadastro",
+        "data_hora": "29/04/2025 23:15:24"
+    },
+    {
+        "usuario": "manu",
+        "acao": "login",
+        "data_hora": "29/04/2025 23:15:45"
+    },
+    {
+        "usuario": "manu",
+        "acao": "inscricao_curso_1",
+        "data_hora": "29/04/2025 23:17:27"
+    },
+    {
+        "usuario": "manu",
+        "acao": "inscricao_curso_2",
+        "data_hora": "29/04/2025 23:18:12"
+    },
+    {
+        "usuario": "manu",
+        "acao": "visualizar_topico_2_topico1",
+        "data_hora": "29/04/2025 23:19:09"
+    },
+    {
+        "usuario": "manu",
+        "acao": "visualizar_conteudo_2",
+        "data_hora": "29/04/2025 23:19:22"
+    },
+    {
+        "usuario": "manu",
+        "acao": "realizar_exercicios_1",
+        "data_hora": "29/04/2025 23:20:22"
+    }
+]
