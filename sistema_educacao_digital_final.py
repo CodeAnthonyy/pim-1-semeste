@@ -1231,7 +1231,7 @@ class SistemaEducacaoDigital:
     def menu_principal(self):
         """Exibe o menu principal do sistema"""
         while True:
-            print("\n=== Plataforma de Educação Digital Segura ===")
+            print("\n=== Plataforma de Educação Digital ===")
             print("1. Login")
             print("2. Cadastrar-se")
             print("3. Visualizar cursos disponíveis")

@@ -63,5 +63,40 @@
         "usuario": "manu",
         "acao": "realizar_exercicios_1",
         "data_hora": "29/04/2025 23:20:22"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "tentativa_login_falha",
+        "data_hora": "22/05/2025 00:26:01"
+    },
+    {
+        "usuario": "emanuel",
+        "acao": "tentativa_login_falha",
+        "data_hora": "22/05/2025 00:28:31"
+    },
+    {
+        "usuario": "manu",
+        "acao": "login",
+        "data_hora": "22/05/2025 00:29:11"
+    },
+    {
+        "usuario": "teste35",
+        "acao": "cadastro",
+        "data_hora": "23/05/2025 11:05:02"
+    },
+    {
+        "usuario": "teste35",
+        "acao": "tentativa_login_falha",
+        "data_hora": "23/05/2025 11:05:25"
+    },
+    {
+        "usuario": "teste35",
+        "acao": "login",
+        "data_hora": "23/05/2025 11:05:49"
+    },
+    {
+        "usuario": "teste35",
+        "acao": "inscricao_curso_1",
+        "data_hora": "23/05/2025 11:06:16"
     }
 ]

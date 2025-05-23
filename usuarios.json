@@ -44,5 +44,21 @@
             "inscrever_cursos",
             "visualizar_estatisticas_basicas"
         ]
+    },
+    "teste35": {
+        "nome": "teste35",
+        "senha": "107448734b70b85674207db1c0363f9e44bef37598b53f4b524e853dcb62bbeb",
+        "salt": "6d3cc52576a27edf3a27647da6c8331f",
+        "email": "2234pedro01@gmail.com",
+        "data_cadastro": "23/05/2025 11:05:02",
+        "cursos_inscritos": [
+            "1"
+        ],
+        "resultados_exercicios": {},
+        "permissoes": [
+            "visualizar_cursos",
+            "inscrever_cursos",
+            "visualizar_estatisticas_basicas"
+        ]
     }
 }
