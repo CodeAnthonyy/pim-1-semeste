@@ -98,5 +98,45 @@
         "usuario": "teste35",
         "acao": "inscricao_curso_1",
         "data_hora": "23/05/2025 11:06:16"
+    },
+    {
+        "usuario": "teste35",
+        "acao": "tentativa_login_falha",
+        "data_hora": "03/06/2025 10:04:08"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "cadastro",
+        "data_hora": "03/06/2025 10:06:45"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "login",
+        "data_hora": "03/06/2025 10:11:03"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "inscricao_curso_1",
+        "data_hora": "03/06/2025 10:16:35"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "inscricao_curso_2",
+        "data_hora": "03/06/2025 10:16:41"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "inscricao_curso_3",
+        "data_hora": "03/06/2025 10:16:43"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "visualizar_topico_1_topico4",
+        "data_hora": "03/06/2025 10:17:40"
+    },
+    {
+        "usuario": "manuel",
+        "acao": "visualizar_conteudo_1",
+        "data_hora": "03/06/2025 10:17:50"
     }
 ]

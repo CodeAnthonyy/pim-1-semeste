@@ -60,5 +60,23 @@
             "inscrever_cursos",
             "visualizar_estatisticas_basicas"
         ]
+    },
+    "manuel": {
+        "nome": "mamuel",
+        "senha": "15d1c61a2610dde48caace003c86000e7de043411af8aa99c0fae7945cfc5071",
+        "salt": "58abd4302e2acc28525fb5620b3ac851",
+        "email": "anth@gmail.com",
+        "data_cadastro": "03/06/2025 10:06:45",
+        "cursos_inscritos": [
+            "1",
+            "2",
+            "3"
+        ],
+        "resultados_exercicios": {},
+        "permissoes": [
+            "visualizar_cursos",
+            "inscrever_cursos",
+            "visualizar_estatisticas_basicas"
+        ]
     }
 }
